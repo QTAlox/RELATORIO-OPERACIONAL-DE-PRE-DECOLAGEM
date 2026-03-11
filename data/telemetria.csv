@@ -1,0 +1,9 @@
+temperatura_interna,temperatura_externa,integridade_estrutural,nivel_energia,pressao_tanque,modulos_criticos
+24,-15,1,92,5.8,OK
+26,-18,1,85,5.5,OK
+29,-20,1,70,5.0,OK
+31,-22,0,60,4.2,ALERTA
+22,-12,1,40,4.8,OK
+35,-25,0,25,3.9,FALHA
+28,-17,1,55,4.6,ALERTA
+23,-10,1,88,5.7,OK
