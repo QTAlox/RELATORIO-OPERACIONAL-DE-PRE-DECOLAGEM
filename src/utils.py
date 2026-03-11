@@ -50,3 +50,11 @@ def identificar_anomalia(linha):
         return "Nenhuma"
 
     return ", ".join(anomalias)
+
+
+def sugerir_acao(classificacao):
+    if classificacao == "Normal":
+        return "Operação dentro dos padrões."
+    if classificacao == "Atenção":
+        return "Revisar parâmetros antes da decolagem."
+    return "Decolagem não recomendada até correção das falhas."
