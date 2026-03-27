@@ -56,14 +56,21 @@ RELATORIO-OPERACIONAL-DE-PRE-DECOLAGEM/
 ## Prints da execução
 
 ### Leitura e análise da base
-![Leitura da base](imagens/prints_execucao.png)
+![Leitura da base](imagens/01_leitura_base.png)
 
 ### Gráficos e resultados
-Adicione aqui outros prints do notebook, como:
-- classificação de risco  
-- autonomia estimada  
-- índice de prontidão  
-- parecer final  
+- classificação de risco 
+![Classificacao_de_risco](imagens/02_classificacao_risco.png)
+
+![Classificacao_de_risco](imagens/03_grafico_classificacao_risco.png)
+- autonomia estimada
+![autonimia](imagens/04_grafico_autonomia.png)
+- índice de prontidão
+![prontidao](imagens/05_grafico_prontidao.png)
+- parecer final
+![parecer_final](imagens/06_grafico_parecer_final.png)
+- resumo da execucao
+![execucao](imagens/07_resumo_execucao.png)
 
 ---
 
