@@ -191,14 +191,6 @@ Os dados utilizados neste projeto são simulados e foram estruturados com base e
 
 ---
 
-## Reflexão crítica
-
-O uso de sistemas computacionais em cenários de pré-decolagem pode ampliar a capacidade de monitoramento e apoiar decisões mais rápidas e consistentes. No entanto, esse processo exige responsabilidade técnica, interpretação adequada dos resultados e supervisão humana, principalmente em situações críticas.
-
-Também é importante considerar que o avanço tecnológico em contextos aeroespaciais envolve impactos sociais, custos elevados e desafios relacionados à sustentabilidade tecnológica. Assim, o uso de inteligência computacional deve ser acompanhado de reflexão ética e de critérios transparentes de decisão.
-
----
-
 ## Autor
 
 Projeto desenvolvido por **Alexandre Niewelt** como parte da Atividade Integradora da FIAP.
